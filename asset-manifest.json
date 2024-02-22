@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/AutoRent/static/css/main.7acaea2f.css",
-    "main.js": "/AutoRent/static/js/main.07d3183d.js",
+    "main.css": "/AutoRent/static/css/main.19475063.css",
+    "main.js": "/AutoRent/static/js/main.1d0424bb.js",
+    "static/media/symbol-defs.svg": "/AutoRent/static/media/symbol-defs.2fdda1f04cbe59267443172f8ac6a60e.svg",
     "index.html": "/AutoRent/index.html",
-    "main.7acaea2f.css.map": "/AutoRent/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/AutoRent/static/js/main.07d3183d.js.map"
+    "main.19475063.css.map": "/AutoRent/static/css/main.19475063.css.map",
+    "main.1d0424bb.js.map": "/AutoRent/static/js/main.1d0424bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.19475063.css",
+    "static/js/main.1d0424bb.js"
   ]
 }
